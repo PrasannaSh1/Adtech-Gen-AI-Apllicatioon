@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  Welcome to my GitHub! I'm passionate about data science, machine learning, and building impactful projects.
+  Welcome to my GitHub Profile! I'm passionate about data science, machine learning, and building impactful projects.
 </p>
 
 <ul>
